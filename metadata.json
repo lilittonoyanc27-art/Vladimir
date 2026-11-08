@@ -1,0 +1,6 @@
+{
+  "name": "Испанский для поездки и работы",
+  "description": "Полноценный разговорник, словарь и тренажёр испанского языка для поездки в Испанию и работы сварщиком.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
